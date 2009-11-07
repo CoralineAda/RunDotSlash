@@ -1,4 +1,4 @@
-= PlusXBit: Execute a Termnial Script from Any Finder Window
+= RunDotSlash: Execute a Terminal Script from Any Finder Window
 
 RunDotSlash makes it easy to move between Finder and Terminal and work with UNIX scripts and executables. You can use it to open the current Finder window in Terminal by simply clicking the RunDotSlash icon in your toolbar with nothing selected. To execute a file in Terminal, just select it in Finder and click the RunDotSlash icon.
 
